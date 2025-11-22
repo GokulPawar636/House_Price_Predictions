@@ -1,22 +1,21 @@
-# House Price Prediction with Machine Learning
+-House Price Prediction with Machine Learning
 
-This repository contains code and resources for building a machine learning model to predict house prices. We use Python, scikit-learn, and TensorFlow for developing and training the model.
+This repository contains the code and resources for building a machine-learning model to predict residential house sale prices. It uses Python 3.x, scikit-learn, optionally TensorFlow, along with pandas, NumPy, matplotlib and Jupyter Notebooks.
+The dataset used is the “House Prices: Advanced Regression Techniques” dataset from Kaggle, covering homes in Ames, Iowa, with features such as number of bedrooms, bathrooms, square footage, year built, etc. 
+GitHub
 
-## Dataset
+- What’s included:
+Exploratory Data Analysis (EDA) using Jupyter Notebook
+Data cleaning & feature engineering
+Model training and evaluation with baseline and advanced algorithms
+Scriptable workflows (for training/evaluation)
+Saved artifacts and example inference code
 
-The dataset used for training and evaluation is the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) dataset from Kaggle. This dataset consists of various features such as the number of bedrooms, bathrooms, square footage, and other attributes of residential homes in Ames, Iowa. The goal is to predict the sale price of each house.
+-Dependencies & Installation:
+Python 3.x
+scikit-learn
+TensorFlow (optional)
+pandas, NumPy, matplotlib
+Jupyter Notebook / Lab
 
-## Dependencies
-
-- Python 3.x
-- scikit-learn
-- TensorFlow
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook (for running the notebooks)
-
-You can install the required dependencies using pip:
-
-```bash
-pip install -r requirements.txt
+pip install -r requirements.txt  
