@@ -1,10 +1,13 @@
-House Price Prediction with Machine Learning
+House Price Prediction with Machine Learning:
+
 This repository contains code and resources for building a machine learning model to predict house prices. We use Python, scikit-learn, and TensorFlow for developing and training the model.
 
-Dataset
+Dataset:
+
 The dataset used for training and evaluation is the House Prices: Advanced Regression Techniques dataset from Kaggle. This dataset consists of various features such as the number of bedrooms, bathrooms, square footage, and other attributes of residential homes in Ames, Iowa. The goal is to predict the sale price of each house.
 
-Dependencies
+Dependencies:
+
 Python 3.x
 scikit-learn
 TensorFlow
